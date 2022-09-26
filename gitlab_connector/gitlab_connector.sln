@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "gitlab_connector", "gitlab_connector\gitlab_connector.mproj", "{0019EE41-D0AF-4155-9785-259C372FC4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0019EE41-D0AF-4155-9785-259C372FC4B0}.Debug|x86.ActiveCfg = Release|x86
+		{0019EE41-D0AF-4155-9785-259C372FC4B0}.Debug|x86.Build.0 = Release|x86
+		{0019EE41-D0AF-4155-9785-259C372FC4B0}.Release|x86.ActiveCfg = Release|x86
+		{0019EE41-D0AF-4155-9785-259C372FC4B0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB50EE95-6E81-4669-BA11-5AA4D1A85C54}
+	EndGlobalSection
+EndGlobal
